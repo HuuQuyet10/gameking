@@ -1,0 +1,1016 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tabstyle {
+    font-size: 13px;
+    width: 130px;
+    height: 60px;
+}
+
+.tab-to .tabstyle a {
+    color: #788793;
+}
+
+.them {
+    width: 150px;
+
+}
+
+.tab-to {
+    width: 540px;
+    background-color: #435461;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #435461;
+    color: #B8E986;
+    border-bottom: 2px solid #B8E986;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.tab-to .tabstyle a {
+    border: none;
+
+}
+
+.style-anh {
+    width: 26px;
+    height: 26px;
+}
+
+/* STYLE CƯỢC GẦN ĐÂY */
+
+.nav02 {
+    width: 124px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.nav02:hover {
+    width: 124px;
+    height: 30px;
+    font-size: 12px;
+}
+
+#solanthang {
+    padding: 0px;
+}
+
+.sty-leback {
+    width: 540px;
+    background-color: #34434D;
+}
+
+.dgfdsf {
+    width: 540px;
+}
+
+.table-dark {
+    padding: 0px;
+    width: 540px;
+}
+
+.nav-tabs2 .nav-link.active {
+    color: #B8E986;
+}
+
+.themchut {
+    width: 127px;
+}
+
+.nav02 a {
+    color: #788793;
+}
+
+.back-02 {
+    background-color: #2C3A44;
+}
+
+.style-ul009 {
+    float: left;
+    list-style-type: none;
+}
+
+.style-ul010 {
+    margin-bottom: -43px;
+    margin-top: 12px;
+}
+
+.ul10 {
+    margin-left: 24px;
+}
+
+.style-divclass {
+    width: 500px;
+    height: 50px;
+    background-color: #34434D;
+}
+
+.style-her {
+    margin-bottom: -8px;
+}
+
+
+
+.solanthang {
+    padding-bottom: 34px;
+    text-align: center;
+    font-size: 12px;
+    background-color: #34434D;
+    width: 33%;
+    height: 26px;
+}
+
+.nav-tabs3 {
+    width: 545px;
+}
+
+.nav-tabs3 .nav-link.active {
+    background-color: #435461;
+    color: white;
+}
+
+.solanthang a {
+    color: #788793;
+}
+
+.sty-icon01 {
+    margin-bottom: -7px;
+    margin-top: 8px;
+    float: left;
+}
+
+.sty-0p {
+    margin-left: 34px;
+    margin-top: -18px;
+    margin-bottom: -12px;
+}
+
+.chiaphan01 {
+    width: 30%;
+}
+
+.chiaphan02 {
+    width: 30%;
+}
+
+.chiaphan03 {
+    width: 30%;
+}
+
+.chiaphan04 {
+    margin-top: 1px;
+    width: 10%;
+}
+
+.cuatao02 {
+    width: 524px;
+}
+
+.uvong-001 {
+    border-radius: 4px;
+    background: rgb(52, 67, 77);
+    width: 88px;
+    height: 23px;
+    float: left;
+}
+
+.uvuong01 {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.uvuong02 {
+    margin-top: 10px;
+}
+
+.border-uvong {
+    border: 5px;
+}
+
+.style-col-dau {
+    border-radius: 15px;
+    background: linear-gradient(rgb(69, 86, 100) 0%, rgb(63, 81, 93) 100%);
+    padding-bottom: 15px;
+}
+
+.btn-bk {
+    color: wheat;
+    background: linear-gradient(rgb(69, 86, 100) 0%, rgb(63, 81, 93) 100%);
+}
+
+.btn-bk:hover {
+    color: wheat;
+}
+
+.style-fass {
+    float: left;
+}
+
+.sty-infor {
+    font-size: 12px;
+    margin-left: 5px;
+    padding-right: 77px;
+}
+
+.clear {
+    clear: both;
+}
+
+.sty-dat {
+    text-align: left;
+    float: left;
+}
+
+.sty-sodat {
+    text-align: right;
+}
+
+.styl-9 {
+    line-height: 9px;
+}
+
+.style-upload {
+    font-size: 13px;
+    text-align: left;
+}
+
+.oh-them {
+    color: wheat;
+}
+
+.them-ngay {
+    text-align: left;
+}
+
+.chiaphan001 {
+    width: 30%;
+}
+
+.chiaphan002 {
+    width: 30%;
+}
+
+.chiaphan003 {
+    width: 30%;
+}
+
+.chiaphan004 {
+    width: 10%;
+}
+
+.xacthuc {
+    font-size: 13px;
+    width: 91%;
+    margin-right: 17px;
+    margin-top: 13px;
+    height: 31px;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+.i-con-f {
+    color: darkgray;
+    font-size: 33px;
+    margin: 6px;
+}
+
+.i-fo-02 {
+    padding-right: 23px;
+}
+
+.nguoichoi {
+    font-size: 12px;
+    text-align: left;
+}
+
+.diem {
+    font-size: 12px;
+    text-align: right;
+}
+
+.style-so1 {
+    float: left;
+    width: 35px;
+    height: 35px;
+}
+
+.sty-395 {
+    margin-bottom: 2px;
+    font-size: 14px;
+}
+
+.sty-396 {
+    margin-bottom: -10px;
+    margin-left: 35px;
+    color: wheat;
+}
+
+.hgh {
+    margin-top: -8px;
+}
+
+.sty-str {
+    border-radius: 5px;
+    background: linear-gradient(rgb(60, 76, 87) 0%, rgb(58, 74, 85) 100%);
+}
+
+.diem02 {
+    text-align: right;
+}
+
+.hfdss {
+    margin-bottom: 0px;
+}
+
+.hfha47 {
+    border: 1px;
+}
+
+.shd74 {
+    float: left;
+}
+
+/* .hgh {
+    height: 35px;
+    width: 35px;
+    background-image: url('./Img/so4.png');
+} */
+
+.hh03 {
+    margin-top: 10px;
+    float: left;
+    font-size: 23px;
+    color: #5C6C7A;
+}
+
+.chh {
+    margin-left: -17px;
+    margin-top: 13px;
+    float: left;
+}
+
+.ungh {
+    margin-left: 12px;
+}
+
+.ung75 {
+    width: 33%;
+}
+
+.ung75:hover {
+    width: 33%;
+}
+
+.ung76 {
+    width: 33%;
+}
+
+.ung76:hover {
+    width: 33%;
+}
+
+.ung77 {
+    width: 33%;
+}
+
+.ung77:hover {
+    width: 33%;
+}
+
+.hfugng {
+    width: 230px;
+    height: 150px;
+}
+
+.unbhf8 {
+    margin-left: 25px;
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+.onko {
+    margin-right: 4px;
+    border-radius: 8px;
+    background-color: darkslategrey;
+    width: 33px;
+    height: 48px;
+    float: left;
+}
+
+.ongu {
+    font-size: 25px;
+    color: white;
+    height: 567px;
+    background-color: #2C3A44;
+}
+
+.ok90 {
+    width: 20px;
+    height: 22px;
+    float: left;
+    background-color: none;
+}
+
+.unghsye {
+    margin-left: 30px;
+    margin-top: 10px;
+    float: left;
+    font-size: 16px;
+}
+
+.dghur {
+    background-color: #6B7478
+}
+
+.dghur:hover {
+    color: wheat;
+}
+
+.unkso {
+    margin-right: 39px;
+    float: right;
+}
+
+.husd {
+    margin-right: 5px;
+}
+
+.kukgonfhe {
+    background-color: #2C3A44;
+    width: 500px;
+    height: 112px;
+}
+
+.ukgofnfhe {
+    margin-left: 19px;
+    margin-top: 14px;
+    border-radius: 8px;
+    background-color: darkslategrey;
+    width: 500px;
+    height: 112px;
+}
+
+.unbhf43 {
+
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: 14px;
+    margin-left: 16px;
+}
+
+.e54sd {
+    margin-top: 8px;
+    float: left;
+}
+
+.fugd {
+    width: 34px;
+    height: 34px;
+    float: left;
+}
+
+.hehe {
+    color: wheat;
+    text-align: left;
+    list-style: none;
+}
+
+.ungu74 {
+    color: wheat;
+    padding-top: 14px;
+    text-align: left;
+}
+
+.u7423 {
+    color: wheat;
+    font-size: 15px;
+    width: 130px;
+    height: 36px;
+    margin-top: -33px;
+    float: right;
+    margin-right: 28px;
+}
+
+.u789 {
+    margin-top: 20px;
+}
+
+.hguf {
+    margin-top: 20px;
+    width: 500px;
+    height: 76px;
+    background-color: #34434D;
+    padding: 10px;
+}
+
+.mhus89 {
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+.ughd {
+    padding-top: 28px;
+}
+
+.ung89 {
+    margin-top: 27px;
+}
+
+.okihk {
+    cursor: no-drop;
+    margin-top: -58px;
+}
+
+.ughte {
+
+    float: left;
+    width: 26px;
+    height: 26px;
+}
+
+.gfgdf {
+    padding-left: 255px;
+    width: 79px;
+    height: 30px;
+    margin-top: -52px;
+}
+
+.fhf {
+    margin-right: 193px;
+}
+
+.ugng8 {
+    color: white;
+}
+
+.hgy {
+    margin-top: -35px;
+}
+
+.ughfns {
+    width: 120px;
+    height: 130px;
+}
+
+.fghu p b {
+    color: #788793;
+}
+
+.fghu {
+    margin-top: 74px;
+}
+
+.ughfn3a {
+    width: 80px;
+    height: 80px;
+}
+
+.ughfnvk {
+    margin-top: 43px;
+}
+
+.ghhhh3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    font-size: 15px;
+    color: #788793;
+    text-align: center;
+}
+
+.okiunh a {
+    text-decoration: none;
+}
+
+#doitaclienket {
+    height: 1300px;
+}
+
+.vewfwhe {
+    margin-left: 8px;
+    color: white;
+}
+
+.reye {
+    border-top: 1px solid #788793;
+}
+
+.hguy {
+    color: #788793;
+    font-size: 24px;
+}
+
+.hgjd {
+    margin-top: 10px;
+}
+
+.fugdfu {
+    margin-left: 12px;
+    margin-top: 31px;
+    color: wheat;
+    font-size: 25px;
+}
+
+.ffg {
+
+    margin-left: 139px;
+    border-radius: 10px;
+    background: rgb(52, 67, 77);
+    width: 275px;
+    height: 146px;
+}
+
+.uhg {
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+.kongd {
+    font-size: 36px;
+    float: right;
+}
+
+.nhud {
+    margin-left: 71px;
+    padding-top: 17px;
+    color: white;
+    width: 121px;
+}
+
+.rfgfg {
+    margin-top: 83px;
+}
+
+.olkgu {
+    color: white;
+}
+
+.uhfd {
+    color: white;
+    background: rgb(52, 67, 77);
+    width: 269px;
+    cursor: no-drop;
+}
+
+.uhfd:hover {
+    color: white;
+    background: rgb(52, 67, 77);
+    width: 269px;
+    cursor: no-drop;
+}
+
+.fydy {
+    margin-top: 105px;
+}
+
+.ughyd {
+    font-size: 21px;
+    text-align: left;
+    color: white;
+}
+
+.yfvvb {
+    text-align: left;
+    color: rgb(145, 165, 176);
+}
+
+.uyyyyy {
+
+    color: wheat;
+}
+
+.okkkk {
+    font-size: 13px;
+    color: rgb(145, 165, 176);
+    height: 180px;
+}
+
+.okkkk2 {
+    font-size: 13px;
+    color: rgb(145, 165, 176);
+    height: 180px;
+}
+
+.kongh {
+    color: white;
+    margin-left: 145px;
+}
+
+/* .olkm {
+    background: rgb(44, 58, 68);
+} */
+.okuh {
+    background: rgb(44, 58, 68);
+}
+
+.unput {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(60, 76, 87);
+    background: rgb(52, 67, 77);
+}
+
+.unput:hover {
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(60, 76, 87);
+    background: rgb(52, 67, 77);
+}
+
+.form-control.active {
+    background: rgb(52, 67, 77);
+}
+
+.hfhss1 {
+    color: #91A5B0;
+}
+
+.hfhss1:hover {
+    color: white;
+}
+
+.hfhss2 {
+    color: #B8E986
+}
+
+.hfhss2:hover {
+    color: #B8E986
+}
+
+.okdhad {
+    color: wheat;
+    border: dotted;
+    width: 494px;
+    margin-top: 8px;
+}
+
+.hguf99 {
+    width: 120px;
+    height: 130px;
+    margin-top: 35px;
+}
+
+.hdfbdf {
+    font-size: 16px;
+    color: #91A5B0;
+}
+
+.dhfshd {
+    margin-left: 11px;
+    color: wheat;
+    border-radius: 9px;
+    margin-top: 29px;
+    background-color: #34434D;
+    margin-right: 11px;
+}
+
+.fhdfh {
+    border-left: solid 1px black;
+}
+
+.fh734 {
+    margin-top: 12px;
+}
+
+#taikhoan {
+    height: 800px;
+}
+
+.dhshf {
+    width: 140px;
+    height: 140px;
+}
+
+.fdfdf {
+    margin-top: 37px;
+}
+
+.ewgwgf {
+    background-color: #34434D;
+    font-size: 21px;
+    color: #B8E986;
+    border-radius: 14px;
+    margin-left: 179px;
+    width: 180px;
+    height: 54px;
+    margin-top: 30px;
+}
+
+.fhs {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.dsfgsd {
+    margin-left: 41px;
+    margin-top: 40px;
+    border-radius: 9px;
+    background-color: #34434D;
+    width: 480px;
+    height: 50px;
+}
+
+.hhdf {
+    float: left;
+    font-size: 21px;
+    color: darkgray;
+    margin-left: 14px;
+    margin-top: 14px;
+}
+
+.dfhg {
+    font-size: 16px;
+}
+
+.sdg {
+    margin-top: 20px;
+}
+
+.dshd {
+    margin-right: 135px;
+    margin-top: 23px;
+    float: right;
+    margin-right: 151px;
+    background-color: #34434D;
+    color: darkgray;
+    width: 235px;
+}
+
+.dshd:hover {
+    margin-right: 135px;
+    margin-top: 23px;
+    float: right;
+    margin-right: 109px;
+    background-color: #34434D;
+    color: darkgray;
+    width: 235px;
+}
+
+.dshdhf {
+    width: 120px;
+    height: 130px;
+}
+
+.dhsds {
+    margin-top: 50px;
+}
+
+.ffrefe {
+    color: darkgray;
+}
+
+.sgvgs {
+    margin-top: 50px;
+    width: 80px;
+    height: 80px;
+}
+
+.hhsfsdf {
+    padding-left: 35px;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #91A5B0;
+    padding-right: 35px;
+}
+
+.dsdfs {
+    margin-left: 45px;
+    margin-top: 44px;
+    line-height: 3px;
+    font-size: 14px;
+    color: #91A5B0;
+    float: left;
+}
+
+.sdvsdv {
+    background-color: #34434D;
+    width: 480px;
+    height: 64px;
+    float: left;
+}
+
+.adsa {
+    float: left;
+    margin-left: 15px;
+}
+
+.ddfbd434f {
+    margin-top: 12px;
+    margin-left: 15px;
+    float: left;
+}
+
+.hfhdfddfdgdf {
+    padding-top: 29px;
+    padding-right: 152px;
+}
+
+.fhsdh {
+    margin-top: 175px;
+    border: 1px solid;
+}
+
+.dsstew1 {
+    margin-left: 44px;
+    margin-top: 47px;
+    background-color: #34434D;
+    width: 480px;
+    height: 107px;
+}
+
+.dsstew2 {
+    margin-left: 44px;
+    border-top: 1px solid;
+    background-color: #34434D;
+    width: 480px;
+    height: 107px;
+}
+
+.sdgsgd2 {
+    margin-left: 19px;
+    margin-top: 18px;
+    float: left;
+    color: #91A5B0;
+}
+
+.sdgssdcsgd3 {
+    color: white;
+    font-size: 12px;
+    float: left;
+    margin-top: -2px;
+    margin-left: 21px
+}
+
+#hoatdong {
+    padding: 0px;
+}
+
+#cuocganday {
+    padding: 0px;
+}
+
+#diemnoibat {
+    padding: 0px;
+}
+
+#cao {
+    padding: 0px;
+}
+
+#cuoccuatoi {
+    padding: 0px;
+}
+
+#bangxephang {
+    padding: 0px;
+}
+
+#hangngay {
+    padding: 0px;
+}
+
+#hangtuan {
+    padding: 0px;
+}
+
+#hangthang {
+    padding: 0px;
+}
+
+#tienthuong {
+    padding: 0px;
+}
+
+#lichsu {
+    padding: 0px;
+}
+
+#doitaclienket {
+    padding: 0px;
+}
+
+#lichsu2 {
+    padding: 0px;
+}
+
+#taikhoan {
+    padding: 0px;
+}
+
+#thongbao {
+    padding: 0px;
+}
+
+#tinhcongbang {
+    padding: 0px;
+}

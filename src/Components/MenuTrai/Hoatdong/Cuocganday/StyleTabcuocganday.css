@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: 2px solid #B8E986;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
