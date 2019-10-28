@@ -15,7 +15,7 @@ class Solanthang extends Component {
     render() {
         return (
             <div>
-                <table class="table table-dark dgfdsf">
+                <table class="table table-dark">
                     <thead>
                         <tr>
                             <th scope="col">NGƯỜI CHƠI</th>
